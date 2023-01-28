@@ -1,0 +1,10 @@
+{
+  "displayName": "WebUtils",
+  "name": "com.evogames.webutils",
+  "version": "0.0.1",
+  "unity": "2021.3",
+  "description": "WebUtils for handling deep links and browser tab",
+  "dependencies": {
+	"com.needle.deeplink": "https://github.com/needle-tools/unity-deeplink.git?path=/package"
+  }
+}
