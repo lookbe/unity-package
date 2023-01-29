@@ -1,0 +1,9 @@
+{
+    "dependencies": [
+        {
+            "name": "com.needle.deeplink",
+            "hash": "649739081ace1037a648b4738ab38750b816cd9d",
+            "url": "https://github.com/needle-tools/unity-deeplink.git?path=/package"
+        }
+    ]
+}
